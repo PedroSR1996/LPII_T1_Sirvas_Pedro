@@ -1,4 +1,4 @@
-package pe.edu.cibertec.sirvasrueda;
+package pe.edu.cibertec.sirvasrueda.model;
 
 /**
  * Hello world!
